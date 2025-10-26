@@ -22,7 +22,5 @@ This is a web-based app that uses **LSTM (Long Short-Term Memory)** neural netwo
 - **Data Processing**: Pandas, NumPy, MinMaxScaler (from scikit-learn)
 - **Visualization**: Matplotlib
 
----
 
-## 📁 Project Structure
 
